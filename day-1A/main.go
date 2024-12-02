@@ -47,8 +47,6 @@ func main() {
 
 		}
 	}
-	fmt.Print("Left side: ", leftSideList)
-	fmt.Print("Right side: ", rightSideList)
 
 	var distance int
 	for i, v := range leftSideList {
